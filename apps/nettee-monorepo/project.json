@@ -1,0 +1,9 @@
+{
+  "name": "nettee-monorepo",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nettee-monorepo",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project nettee-monorepo --web",
+  "targets": {}
+}
